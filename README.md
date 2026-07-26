@@ -3,8 +3,8 @@
 Exploratory data analysis, statistical analysis and a machine learning model built on the
 Titanic dataset, for the BCS 404 project at Accra Technical University.
 
-**Name:** Quarme Israel Narbi
-**ID:** 01258844B
+**Name:** Kissi Kwame Johnson
+**ID:** 01250608B
 **Course:** BCS 404 - Introduction to Data Science with Python
 **Lecturer:** Dr. Joseph Dadzie
 **Academic Year:** 2025/2026, Second Semester
